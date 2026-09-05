@@ -31,7 +31,7 @@ I enjoy turning ideas into working projects, solving problems through **Data Str
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,ejs,js,react,nodejs,express,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,vite" />
 </p>
 
 ### 🗄️ Databases & Backend
