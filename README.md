@@ -11,7 +11,7 @@ I enjoy turning ideas into working projects, solving problems through **Data Str
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE @ **VIT Vellore**
-* 💻 Solved **250+ DSA problems** on LeetCode
+* 💻 Solved **290+ DSA problems** on LeetCode
 * 🌱 Currently learning **Advanced DSA, System Design, AI/ML & Backend Development**
 * 🔭 Working on projects involving **Full-Stack Development, OS, DBMS & AI**
 * 🏆 Hackathon enthusiast & problem solver
