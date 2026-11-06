@@ -129,7 +129,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 <img src="https://img.shields.io/badge/GitHub-ShreyaVispute021-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shreya-vispute-6a9414321/">
+<a href="https://www.linkedin.com/in/shreya-vispute-43b691447/">
 <img src="https://img.shields.io/badge/LinkedIn-Shreya%20Vispute-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
